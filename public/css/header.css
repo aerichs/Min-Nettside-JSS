@@ -1,0 +1,38 @@
+header {
+    height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/Gullberget.jpg');
+    background-size: cover;
+    background-position: 50% 80%;
+  }
+  .header-content {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .ommeg a {
+    color: #000;
+    display: inline-block;
+    height: 62px;
+    width: 62px;
+    font-size: 30px;
+    border-radius: 50%;
+    border: 2px solid #d4d4d4;
+    line-height: 60px;
+    text-align: center;
+  }
+  .ommeg a:hover {
+    color: blue;
+  }
+  #omMeg {
+    text-align: center;
+    padding-top: 30px;
+  }
+  .ørret {
+    padding-top: 70px;
+  }
+  #bildeAvMeg {
+    padding-top: 30px;
+  }

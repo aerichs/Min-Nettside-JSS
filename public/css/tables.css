@@ -1,0 +1,36 @@
+.toast-message {
+    background: rgb(29, 37, 114);
+    color: #fff;
+    font-size: x-large;
+    display: show;
+}
+
+#sweet {
+    box-shadow: 2px 2px #999;
+}
+#sweet:active {
+    transform: translateY(4px);
+    box-shadow: 1px 1px #666;
+    
+}
+#kontaktmeg2 {
+    box-shadow: 2px 2px #999; 
+}
+#kontaktmeg2:active {
+    transform: translateY(4px);
+    box-shadow: 1px 1px #666;
+}
+#forrige-video{
+    box-shadow: 2px 2px #999;
+}
+#neste-video{
+    box-shadow: 2px 2px #999;
+}
+#forrige-video:active{
+    transform: translateY(4px);
+    box-shadow: 1px 1px #666; 
+}
+#neste-video:active{
+    transform: translateY(4px);
+    box-shadow: 1px 1px #666; 
+}
