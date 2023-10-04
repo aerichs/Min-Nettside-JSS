@@ -6,6 +6,8 @@ const nesteKnapp = document.getElementById("neste-video");
 const videoResurs = [
   "/video/oven.mp4",
   "/video/homborgsund.mp4",
+  "/video/ørsjøen.mp4",
+  "/video/tørbergsjøen2.mp4",
   // Legg til flere URL-er etter behov
 ];
 
